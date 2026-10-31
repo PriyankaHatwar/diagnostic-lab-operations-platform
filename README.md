@@ -47,3 +47,6 @@ Currently in the initial setup and planning phase.
 
 This is an educational project. It uses synthetic data only and is not intended for real clinical use.
 
+## Development Workflow
+
+This project follows a feature-branch-based Git workflow.
